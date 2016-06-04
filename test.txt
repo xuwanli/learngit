@@ -1,2 +1,0 @@
-I just try to use git.
-and this is a test file.
